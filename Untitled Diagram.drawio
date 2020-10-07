@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T08:19:10.963Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="1Js6p6FzKR0S-iQBbZBy" version="13.7.7" type="github" pages="2">
-  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2020-10-07T05:38:56.143Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="xpa-Z8bOl6cqRu7KuGiJ" version="13.7.7" type="github" pages="2">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="음원등록프로세스">
     <mxGraphModel dx="2031" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="3.5" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="5MN-hVibq4f068yrZOm2-0" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5MN-hVibq4f068yrZOm2-0" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
           <mxGeometry x="960" y="10" width="1750" height="3990" as="geometry" />
         </mxCell>
         <mxCell id="NXojXSi49g-Y3K-OqPZ--0" value="&lt;span style=&quot;font-size: 18px&quot;&gt;등록업무&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="5MN-hVibq4f068yrZOm2-0" vertex="1">

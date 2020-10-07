@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T05:38:56.143Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="xpa-Z8bOl6cqRu7KuGiJ" version="13.7.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-07T05:47:24.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="QKfYTIJPS11luHslHhyR" version="13.7.7" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="음원등록프로세스">
-    <mxGraphModel dx="2031" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="3.5" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2370" dy="1188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="3.5" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="5MN-hVibq4f068yrZOm2-0" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
-          <mxGeometry x="960" y="10" width="1750" height="3990" as="geometry" />
+          <mxGeometry x="960" y="60" width="1750" height="3990" as="geometry" />
         </mxCell>
         <mxCell id="NXojXSi49g-Y3K-OqPZ--0" value="&lt;span style=&quot;font-size: 18px&quot;&gt;등록업무&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="5MN-hVibq4f068yrZOm2-0" vertex="1">
           <mxGeometry x="1290" width="100" height="40" as="geometry" />
@@ -107,7 +107,7 @@
         <mxCell id="NXojXSi49g-Y3K-OqPZ--37" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;fontStyle=1" parent="5MN-hVibq4f068yrZOm2-0" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="670" as="sourcePoint" />
-            <mxPoint x="440" y="980" as="targetPoint" />
+            <mxPoint x="480" y="980" as="targetPoint" />
             <Array as="points">
               <mxPoint x="340" y="800" />
             </Array>
@@ -162,21 +162,18 @@
             <mxPoint x="560" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_Ghy4deFd8bVYPHdU4sL-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;등록자 검수&lt;br&gt;유효성 확인&lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1" parent="5MN-hVibq4f068yrZOm2-0" vertex="1">
-          <mxGeometry x="420" y="1080" width="180" height="110" as="geometry" />
-        </mxCell>
         <mxCell id="_Ghy4deFd8bVYPHdU4sL-10" value="&lt;font style=&quot;font-size: 18px&quot;&gt;물리파일 유효성&lt;br&gt;확인&lt;br&gt;&lt;/font&gt;" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;fontStyle=1" parent="5MN-hVibq4f068yrZOm2-0" vertex="1">
           <mxGeometry x="942.4199999999998" y="1080" width="195.17" height="117.1" as="geometry" />
         </mxCell>
-        <mxCell id="_Ghy4deFd8bVYPHdU4sL-11" value="" style="endArrow=classic;html=1;fontStyle=1" parent="5MN-hVibq4f068yrZOm2-0" edge="1">
+        <mxCell id="_Ghy4deFd8bVYPHdU4sL-11" value="" style="endArrow=classic;html=1;fontStyle=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="5MN-hVibq4f068yrZOm2-0" edge="1" target="_Ghy4deFd8bVYPHdU4sL-41">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="509.40999999999985" y="1009.9999999999998" as="sourcePoint" />
-            <mxPoint x="509" y="1080" as="targetPoint" />
+            <mxPoint x="509" y="1090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_Ghy4deFd8bVYPHdU4sL-12" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1" parent="5MN-hVibq4f068yrZOm2-0" source="_Ghy4deFd8bVYPHdU4sL-4" edge="1">
+        <mxCell id="_Ghy4deFd8bVYPHdU4sL-12" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;fontStyle=1" parent="5MN-hVibq4f068yrZOm2-0" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="1130" as="sourcePoint" />
+            <mxPoint x="440" y="1150" as="sourcePoint" />
             <mxPoint x="430" y="330" as="targetPoint" />
             <Array as="points">
               <mxPoint x="200" y="450" />
@@ -258,7 +255,7 @@
           <mxGeometry x="90" y="1630" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_Ghy4deFd8bVYPHdU4sL-41" value="&lt;span style=&quot;font-size: 18px&quot;&gt;검수진행&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="5MN-hVibq4f068yrZOm2-0" vertex="1">
-          <mxGeometry x="450" y="960" width="130" height="60" as="geometry" />
+          <mxGeometry x="445" y="1100" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_Ghy4deFd8bVYPHdU4sL-42" value="&lt;span style=&quot;font-size: 18px&quot;&gt;검수 완료 주의&lt;br&gt;comment 추가&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="5MN-hVibq4f068yrZOm2-0" vertex="1">
           <mxGeometry x="117.5" y="1800" width="175" height="60" as="geometry" />
@@ -558,8 +555,8 @@
             <mxPoint x="1639.9999999999995" y="939.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_Ghy4deFd8bVYPHdU4sL-141" value="&lt;font style=&quot;font-size: 18px&quot;&gt;트랙리스트로 메타 추출&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="5MN-hVibq4f068yrZOm2-0" vertex="1">
-          <mxGeometry x="1533.3400000000001" y="940" width="216.66" height="60" as="geometry" />
+        <mxCell id="_Ghy4deFd8bVYPHdU4sL-141" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Common Meta&amp;nbsp;&lt;br&gt;형식에 맞추어&amp;nbsp;&lt;br&gt;엑셀 정리&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="5MN-hVibq4f068yrZOm2-0" vertex="1">
+          <mxGeometry x="1531.8799999999999" y="940" width="216.66" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_Ghy4deFd8bVYPHdU4sL-143" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;fontStyle=1" parent="5MN-hVibq4f068yrZOm2-0" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -631,6 +628,9 @@
         </mxCell>
         <mxCell id="skMm_KSLyLUZOy1wStm9-1" value="&lt;span style=&quot;font-size: 18px&quot;&gt;Yes&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="5MN-hVibq4f068yrZOm2-0" vertex="1">
           <mxGeometry x="1425" y="3040" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d6JHdZH8L2p2i41rlUMP-0" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;fontStyle=1" vertex="1" parent="5MN-hVibq4f068yrZOm2-0">
+          <mxGeometry x="480" y="950" width="60" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

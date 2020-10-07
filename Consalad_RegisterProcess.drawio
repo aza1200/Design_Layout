@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T11:10:44.618Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="rQFIqDZnLFCP2cDik5Y7" version="13.7.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-10-07T11:32:40.679Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="6YqmyNYzNXjkLYuCqlHF" version="13.7.7" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Process">
-    <mxGraphModel dx="1673" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="5" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="5" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -653,11 +653,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="S0diyraIF5dVVjEcDNjf-0" value="&lt;span style=&quot;font-size: 18px&quot;&gt;(MP3 -&amp;gt; Wav 컨버팅)&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2025" y="1227.1" width="200" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="8INcRSk-o9VUJRe0nf8I" name="문제점 표시">
-    <mxGraphModel dx="1543" dy="2411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="576" dy="2314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="-E6TPaFgpcdQGiwjhryf-0" />
         <mxCell id="-E6TPaFgpcdQGiwjhryf-1" parent="-E6TPaFgpcdQGiwjhryf-0" />
@@ -1394,7 +1397,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZIYVdYPvncQoW6amuvdF" name="문제점표시_최종">
-    <mxGraphModel dx="154" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="679" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ot4OCTmgo1wimuUBw3FC-0" />
         <mxCell id="ot4OCTmgo1wimuUBw3FC-1" parent="ot4OCTmgo1wimuUBw3FC-0" />
@@ -1688,12 +1691,6 @@
         <mxCell id="o5nmKJmsrvkyFQqaAit6-63" value="&lt;font style=&quot;font-size: 18px&quot;&gt;전송된 데이터 &lt;br&gt;구 CMS 내에서&lt;br&gt;정리&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="o5nmKJmsrvkyFQqaAit6-0">
           <mxGeometry x="400" y="2270" width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="o5nmKJmsrvkyFQqaAit6-64" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontStyle=1" vertex="1" parent="o5nmKJmsrvkyFQqaAit6-0">
-          <mxGeometry y="2242.5" width="20" height="125" as="geometry" />
-        </mxCell>
-        <mxCell id="o5nmKJmsrvkyFQqaAit6-65" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 18px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;▶&amp;nbsp; 구 CMS 내 필수 확인사항&amp;nbsp; ◀&amp;nbsp;&lt;br&gt;1.&amp;nbsp; 아티스트 애플아이디 매칭/생성 후 추가&lt;br&gt;2. 제외국가, 서비스채널 검토&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="o5nmKJmsrvkyFQqaAit6-0">
-          <mxGeometry x="40" y="2257.5" width="380" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="o5nmKJmsrvkyFQqaAit6-66" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="o5nmKJmsrvkyFQqaAit6-0" target="o5nmKJmsrvkyFQqaAit6-67">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="2340" as="sourcePoint" />
@@ -1702,12 +1699,6 @@
         </mxCell>
         <mxCell id="o5nmKJmsrvkyFQqaAit6-67" value="&lt;font style=&quot;font-size: 18px&quot;&gt;발매 시간 이후 국내&lt;br&gt;유통사와 앨범 비교 / 대조&lt;br&gt;및 애플 뮤직 스타일가이드&lt;br&gt;최종확인&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="o5nmKJmsrvkyFQqaAit6-0">
           <mxGeometry x="390.01" y="2420" width="240" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="o5nmKJmsrvkyFQqaAit6-68" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontStyle=1" vertex="1" parent="o5nmKJmsrvkyFQqaAit6-0">
-          <mxGeometry y="2450" width="20" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="o5nmKJmsrvkyFQqaAit6-69" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 18px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;▶&amp;nbsp; 비교 및 대조 확인사항&amp;nbsp; ◀&amp;nbsp;&lt;br&gt;1.&amp;nbsp; 피쳐링, 메인 아티스트, with&lt;br&gt;2. 앨범 커버, 트랙명,19금&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="o5nmKJmsrvkyFQqaAit6-0">
-          <mxGeometry x="40" y="2470" width="380" height="100" as="geometry" />
         </mxCell>
         <mxCell id="o5nmKJmsrvkyFQqaAit6-70" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="o5nmKJmsrvkyFQqaAit6-0" source="o5nmKJmsrvkyFQqaAit6-67">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1807,9 +1798,6 @@
             <mxPoint x="1400" y="1495" as="sourcePoint" />
             <mxPoint x="1400" y="1930" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="o5nmKJmsrvkyFQqaAit6-93" value="&lt;font style=&quot;font-size: 18px&quot;&gt;콘샐러드에서 정해놓은&amp;nbsp;&lt;br&gt;meta 형식에&amp;nbsp;&lt;br&gt;맞추어 필수 값들 기재&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="o5nmKJmsrvkyFQqaAit6-0">
-          <mxGeometry x="1420" y="1670" width="220" height="100" as="geometry" />
         </mxCell>
         <mxCell id="o5nmKJmsrvkyFQqaAit6-94" value="&lt;span style=&quot;font-size: 18px&quot;&gt;No&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="o5nmKJmsrvkyFQqaAit6-0">
           <mxGeometry x="1210" y="1080" width="120" height="20" as="geometry" />
@@ -1995,6 +1983,18 @@
         <mxCell id="o5nmKJmsrvkyFQqaAit6-133" value="&lt;span style=&quot;font-size: 18px&quot;&gt;구CMS앨범등록&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="o5nmKJmsrvkyFQqaAit6-0">
           <mxGeometry x="1320.01" y="3160" width="160" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="uZy1ANXY-yuiv8WTP3JA-0" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;휴먼에러&amp;nbsp;&lt;br&gt;(발매일시, 제외국가, 플랫폼)&lt;br&gt;(공지메일 누락)&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="o5nmKJmsrvkyFQqaAit6-0">
+          <mxGeometry x="1110" y="447.5" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uZy1ANXY-yuiv8WTP3JA-2" value="&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;&amp;nbsp; red&amp;nbsp; &lt;/font&gt;-&amp;gt;&amp;nbsp; 휴먼에러&lt;br&gt;&lt;font color=&quot;#3399ff&quot;&gt;&amp;nbsp; &amp;nbsp; blue&amp;nbsp;&lt;/font&gt;-&amp;gt; 시스템에러&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="o5nmKJmsrvkyFQqaAit6-0">
+          <mxGeometry x="390" y="50" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uZy1ANXY-yuiv8WTP3JA-8" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;휴먼에러&amp;nbsp;&lt;br&gt;(발매일시, 제외국가, 플랫폼)&lt;br&gt;(공지메일 누락)&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="o5nmKJmsrvkyFQqaAit6-0">
+          <mxGeometry x="620" y="790" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uZy1ANXY-yuiv8WTP3JA-9" value="&lt;span style=&quot;font-size: 18px&quot;&gt;(MP3 -&amp;gt; Wav 컨버팅&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="o5nmKJmsrvkyFQqaAit6-0">
+          <mxGeometry x="1075" y="1157.1" width="200" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="o5nmKJmsrvkyFQqaAit6-134" value="&lt;span style=&quot;font-size: 18px&quot;&gt;해외 플랫폼 정상 등록 확인&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="ot4OCTmgo1wimuUBw3FC-1">
           <mxGeometry x="2218.13" y="4520" width="263.75" height="60" as="geometry" />
         </mxCell>
@@ -2013,12 +2013,6 @@
         <mxCell id="o5nmKJmsrvkyFQqaAit6-138" value="&lt;span style=&quot;font-size: 18px&quot;&gt;No&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="ot4OCTmgo1wimuUBw3FC-1">
           <mxGeometry x="1680" y="4220" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="o5nmKJmsrvkyFQqaAit6-139" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 18px ; font-style: normal ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; ▶&amp;nbsp; 문제되는 상황&amp;nbsp; ◀&amp;nbsp;&lt;br&gt;1.&amp;nbsp; 서비스는 안되지만 링크가 달렸을때&lt;br&gt;2. 서비스가 되지만 링크가 안달렸을때&lt;br&gt;3. 서비스도 안되고 링크도 안달릴때&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="ot4OCTmgo1wimuUBw3FC-1">
-          <mxGeometry x="1585.0000000000002" y="4080" width="380" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="o5nmKJmsrvkyFQqaAit6-140" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;fontStyle=1" vertex="1" parent="ot4OCTmgo1wimuUBw3FC-1">
-          <mxGeometry x="1565" y="4070" width="20" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="o5nmKJmsrvkyFQqaAit6-141" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;" edge="1" parent="ot4OCTmgo1wimuUBw3FC-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2200" y="4200" as="sourcePoint" />
@@ -2028,6 +2022,18 @@
               <mxPoint x="1220" y="4150" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="uZy1ANXY-yuiv8WTP3JA-4" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;휴먼에러 잘못된 id 서치&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="ot4OCTmgo1wimuUBw3FC-1">
+          <mxGeometry x="2660" y="320" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uZy1ANXY-yuiv8WTP3JA-5" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;휴먼에러 잘못된 id 서치&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="ot4OCTmgo1wimuUBw3FC-1">
+          <mxGeometry x="2660" y="480" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uZy1ANXY-yuiv8WTP3JA-6" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;휴먼에러 잘못된 id 서치&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="ot4OCTmgo1wimuUBw3FC-1">
+          <mxGeometry x="2660" y="640" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uZy1ANXY-yuiv8WTP3JA-7" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 18px&quot;&gt;등록제외 앨범 기준이 애매함&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="ot4OCTmgo1wimuUBw3FC-1">
+          <mxGeometry x="2680" y="820" width="280" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

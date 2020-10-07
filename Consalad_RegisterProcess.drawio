@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-07T12:18:15.151Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="rbNnb9IgaF2RmgvkksHv" version="13.7.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-07T12:18:32.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="hv25f3lQiQw8n66zGoco" version="13.7.7" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Process">
-    <mxGraphModel dx="1240" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="5" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1318" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="5" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -660,7 +660,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZIYVdYPvncQoW6amuvdF" name="문제점표시_최종">
-    <mxGraphModel dx="2800" dy="1718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2240" dy="1374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ot4OCTmgo1wimuUBw3FC-0" />
         <mxCell id="ot4OCTmgo1wimuUBw3FC-1" parent="ot4OCTmgo1wimuUBw3FC-0" />
